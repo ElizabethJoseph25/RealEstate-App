@@ -1,0 +1,35 @@
+[
+  {
+    "Id" : 1,
+    "Type" : "House",
+    "Name" : "Birla House",
+    "Price" : 12000
+  },
+  {
+    "Id" : 2,
+    "Type" : "Villa",
+    "Name" : "Baba's villa",
+    "Price" : 15000
+  },{
+    "Id" : 3,
+    "Type" : "Flat",
+    "Name" : "Asset Homes",
+    "Price" : 10000
+  },{
+    "Id" : 4,
+    "Type" : "House",
+    "Name" : "Natuvettil",
+    "Price" : 22000
+  },{
+    "Id" : 5,
+    "Type" : "Flat",
+    "Name" : "Pulimootil",
+    "Price" : 90000
+  },{
+    "Id" : 6,
+    "Type" : "House",
+    "Name" : "Padman",
+    "Price" : 19000
+  }
+
+]
